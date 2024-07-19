@@ -16,66 +16,81 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:Ntshebetseng Moloi
+- **Date: 18 July 2024
+- **Current Role/Position:student
+- **Field of Interest:full stack developer
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - time management
+    -work well under pressure.
+    -creative
+    -interest in how things work
+
+
+    areas to improve:
+    -communication skills (asking for help)
+    -seeing the big picture
+    -public speaking skills
 2. **Interests and Values**:
-    
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+-i want to wow people with what ive been able to create
+-creativity that comes with developing
+-judgement free colaboration
+-good communication
+-good work-life balance
+-superiors who actually care about me
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
+    -full stack developer*
+    -game develooper*
+    -cloud engineer
+    -data analyst
+    -app developer
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
-
+    - full stack deals with both the design of the website and the data behind it. this aligns ith my creative side as well as my desire to know how things work.
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
-    
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - to have a job
+       I would like to be self-reliant within 1 year.
+    - move out of my parents house.
+     I want to be able to experince that level of responsibilty and independence.
 2. **Long-term Goals** (3-5 years and beyond):
-    
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
 
+ - i want to have job security.
+ -be an approachable person for new developers to ask for mentorship
+ -id also like to try developing a game in my free time.
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
-    
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
-2. **Preparation for Long-term Goals**:
-    
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
 
+    1. finish codespace course.
+    2. become proficient in other coding languages such as python
+    3. network within the developer industry.
+    4. establish a secure income.
+2. **Preparation for Long-term Goals**:
+    -increase my coding ability by trying the challenges that are all over the internet.
+    -ensuring my time management is constant
+    -ensuring i reflect the 'codespace qualities' within the work space.
+    -i'll need to be proficient in HTML, CSS, Javascript, DOM Manipulation, SQL/NoSQL and Java.
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - being new within the industry and not having a formal degree may result in increased difficulty when it  comes to getting a job.
+     the best way to combat this is to focus on my profile and create connections within the industry.
+     -i might have imposter syndrome once i start but i beleive i will settle in eventually.
 2. **Opportunities for Growth**:
-    
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
 
+- finding a mentor within the industry would be very beneficial. having someone to whom i could get advice from would increse my growth.
+-becoming apart of online communities  and learning how to collaborate and communicate effectively will also be helpful in my growth.
 ### Submission
 
 - To complete this submission you will need to use this template and complete Parts 1 to 5.
